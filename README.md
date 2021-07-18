@@ -9,4 +9,4 @@ untuk memenuhi tugas di SYNRGY Academy
 
 [![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](file:///home/andi/Downloads/bootstrap-andi/freelancer/index.html)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
+**[View Live Preview](file:///home/andi/Downloads/bootstrap-andi/freelancer/index.html)**
